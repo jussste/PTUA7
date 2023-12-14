@@ -1,4 +1,5 @@
-Duomenų rinkinys „Grybai“ buvo įrašytas iš „Audubon Society Field Guide to North American Mushrooms“ (1981). G. H. Lincoffas (Pres.), Niujorkas: Alfredas A. Knopfas. URL https://archive.ics.uci.edu/ml/datasets/mushroom url.
+Duomenų rinkinys „Grybai“ buvo įrašytas iš „Audubon Society Field Guide to North American Mushrooms“ (1981). G. H. Lincoffas (Pres.), Niujorkas: Alfredas A. Knopfas.
+URL: https://archive.ics.uci.edu/ml/datasets/mushroom 
 
 Šio projekto tikslas – sukurti modelį, pagrįstą duomenų mokslu ir mašininio mokymosi metodais, kad pagal žinomas savybes būtų galima numatyti, ar grybas yra valgomas.
 

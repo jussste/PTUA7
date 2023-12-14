@@ -1,8 +1,9 @@
-Duomenų rinkinys „Grybai“ buvo paimtas iš „Audubon Society Field Guide to North American Mushrooms“ (1981). G. H. Lincoffas (Pres.), Niujorkas: Alfredas A. Knopfas 
-URL: https://archive.ics.uci.edu/ml/datasets/mushroom url.
+This project aims at developing a machine-learning algorithm that will determine if a certain mushroom is edible or poisonous by its specifications like cap shape, cap color, gill color, etc. using different classifiers.
+To do so, I have used the following classification methods:
 
-Šio projekto tikslas – sukurti modelį, pagrįstą duomenų analize ir mašininio mokymosi metodais, kuris pagal turimus požymius  numatys, ar grybas yra valgomas, ar ne.
-
-Duomenų rinkinyje yra 8 124 įrašai ir naudojami 22 atributai grybams apibūdinti. Kiekviename duomenų rinkinyje yra papildomas atributas, skirtas pažymėti, ar grybas yra valgomas, ar ne.
-
-Modeliui išmokyti panaudojau 80% turimų duomenų. Likę 20% bus naudojami kaip bandomasis duomenų rinkinys sukurtam modeliui įvertinti.
+    Decision Tree Classifier
+    Logistic Regression Classifier
+    k-Nearest Neighbor Classifier
+    Support Vector Machine Classifier
+    Naive Bayes Classifier
+    Random Forest Classifier
